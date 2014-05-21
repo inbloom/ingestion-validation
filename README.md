@@ -2,7 +2,7 @@
 
 
 ##DESCRIPTION
-This is a Java-based application which can be used by State and Local Education Agency IT Administrators to validate the format and consistency of data prior to uploading to the Secure Data Service.
+This is a Java-based application which can be used by State and Local Education Agency IT Administrators to validate the format and consistency of data prior to uploading to the ESDS.
 
 ##SYSTEM REQUIREMENTS
 Java Version 1.6 or later
